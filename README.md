@@ -1,4 +1,4 @@
-# Order Service (Java 21)
+# Order Service - (Java 21)
 
 Order lifecycle with atomic inventory reservation, volume pricing, idempotent order placement and
 an HTTP/JSON API. **74 tests, all passing.**
