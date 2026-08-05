@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.acme.orders.domain.OrderTest$History
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 s -- in com.acme.orders.domain.OrderTest$History

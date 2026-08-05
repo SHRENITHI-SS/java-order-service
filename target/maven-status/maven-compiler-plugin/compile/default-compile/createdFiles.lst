@@ -1,0 +1,17 @@
+com/acme/orders/Main.class
+com/acme/orders/api/ApiServer$Response.class
+com/acme/orders/domain/Order.class
+com/acme/orders/domain/Order$IllegalOrderStateException.class
+com/acme/orders/domain/Money.class
+com/acme/orders/Inventory$Shortage.class
+com/acme/orders/api/Json$Parser.class
+com/acme/orders/OrderService$OrderRejectedException.class
+com/acme/orders/domain/OrderStatus.class
+com/acme/orders/Inventory$ReservationResult.class
+com/acme/orders/api/Json.class
+com/acme/orders/domain/OrderLine.class
+com/acme/orders/Inventory.class
+com/acme/orders/domain/Order$Event.class
+com/acme/orders/OrderService.class
+com/acme/orders/api/Json$ParseException.class
+com/acme/orders/api/ApiServer.class
